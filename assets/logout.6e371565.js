@@ -1,0 +1,1 @@
+import{m as o,A as s,b as e,u as a,o as n,a as t,k as c}from"./index.a8f31d7d.js";const _={class:"not-found"},r=t("h2",null,[t("div",{class:"title"},"Logout")],-1),i=[r],m=o({__name:"logout",setup(u){return a(c).dispatch(s.LOGOUT),(l,p)=>(n(),e("div",_,i))}});export{m as default};
