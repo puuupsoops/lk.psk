@@ -1,0 +1,1 @@
+import{f as e,u as s,b8 as a,o as n,c as r,b as o}from"./index.09a56ea9.js";const c={class:"not-found"},p=e({__name:"LogoutPage",setup(u){return s().dispatch(a.LOGOUT),(l,t)=>(n(),r("div",c,[...t[0]||(t[0]=[o("h2",null,[o("div",{class:"title"},"Logout")],-1)])]))}});export{p as default};
